@@ -1,0 +1,15 @@
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/bin/Debug/net6.0/Exam1
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/bin/Debug/net6.0/Exam1.deps.json
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/bin/Debug/net6.0/Exam1.runtimeconfig.json
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/bin/Debug/net6.0/Exam1.dll
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/bin/Debug/net6.0/Exam1.pdb
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/Exam1.csproj.AssemblyReference.cache
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/Exam1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/Exam1.AssemblyInfoInputs.cache
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/Exam1.AssemblyInfo.cs
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/Exam1.csproj.CoreCompileInputs.cache
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/Exam1.dll
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/refint/Exam1.dll
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/Exam1.pdb
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/Exam1.genruntimeconfig.cache
+/Users/vladimirgorbunov/Desktop/Гик Брейн/CSHARP/Exam1/obj/Debug/net6.0/ref/Exam1.dll
