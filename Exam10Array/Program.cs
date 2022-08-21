@@ -79,7 +79,7 @@ int [] array = new int[20];
 
 SoArray(array); //метод заполнения массива случайными числами//
 PrintArray(array);//метод отображения массива//
-Console.WriteLine();
+Console.WriteLine(); // метод поиска числа в массиве //
 
 int pos = IndexOf(array, 4);
 Console.WriteLine(pos);
